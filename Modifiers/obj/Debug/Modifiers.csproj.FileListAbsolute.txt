@@ -1,0 +1,7 @@
+C:\Users\NBGM\source\repos\Modifiers\Modifiers\bin\Debug\Modifiers.exe.config
+C:\Users\NBGM\source\repos\Modifiers\Modifiers\bin\Debug\Modifiers.exe
+C:\Users\NBGM\source\repos\Modifiers\Modifiers\bin\Debug\Modifiers.pdb
+C:\Users\NBGM\source\repos\Modifiers\Modifiers\obj\Debug\Modifiers.csproj.AssemblyReference.cache
+C:\Users\NBGM\source\repos\Modifiers\Modifiers\obj\Debug\Modifiers.csproj.CoreCompileInputs.cache
+C:\Users\NBGM\source\repos\Modifiers\Modifiers\obj\Debug\Modifiers.exe
+C:\Users\NBGM\source\repos\Modifiers\Modifiers\obj\Debug\Modifiers.pdb
