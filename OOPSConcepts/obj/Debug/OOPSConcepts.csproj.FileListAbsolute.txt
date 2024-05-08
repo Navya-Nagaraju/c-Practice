@@ -1,0 +1,7 @@
+C:\Users\NBGM\source\repos\OOPSConcepts\OOPSConcepts\bin\Debug\OOPSConcepts.exe.config
+C:\Users\NBGM\source\repos\OOPSConcepts\OOPSConcepts\bin\Debug\OOPSConcepts.exe
+C:\Users\NBGM\source\repos\OOPSConcepts\OOPSConcepts\bin\Debug\OOPSConcepts.pdb
+C:\Users\NBGM\source\repos\OOPSConcepts\OOPSConcepts\obj\Debug\OOPSConcepts.csproj.AssemblyReference.cache
+C:\Users\NBGM\source\repos\OOPSConcepts\OOPSConcepts\obj\Debug\OOPSConcepts.csproj.CoreCompileInputs.cache
+C:\Users\NBGM\source\repos\OOPSConcepts\OOPSConcepts\obj\Debug\OOPSConcepts.exe
+C:\Users\NBGM\source\repos\OOPSConcepts\OOPSConcepts\obj\Debug\OOPSConcepts.pdb
